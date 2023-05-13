@@ -1,0 +1,7 @@
+One
+Five
+Ten
+Twenty
+Fifty
+One Hundred
+Two Hundred
